@@ -1,2 +1,2 @@
 # codeship
-# Tests out the codeship CI/CD deployment cycle.
+# Tests out the codeship CI/CD deployment cycle
