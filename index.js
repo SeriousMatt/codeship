@@ -13,7 +13,7 @@ app.get('/', function (req, res) {
 });
 
 app.get('/api', function (req, res) {
-  res.send('{"api":"apidata"}');
+  res.send('{"api":"apidata"}';
 });
 
 app.listen(PORT);
